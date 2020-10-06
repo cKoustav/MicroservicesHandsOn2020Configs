@@ -5,7 +5,7 @@ spring:
       - id: managecurrencyconversionfactor
         uri: lb://managecurrencyconversionfactor
         predicates:
-        - Path=/conversionfactor/**
+        - Path=/**
         
       - id: convertcurrency
         uri: lb://convertcurrency
