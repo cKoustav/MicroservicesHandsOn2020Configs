@@ -1,0 +1,5 @@
+managecurrencyconversionfactor.h2.console.enabled: true
+managecurrencyconversionfactor.datasource.url: "jdbc:h2:mem:conversionDB;DB_CLOSE_DELAY=-1"
+managecurrencyconversionfactor.datasource.username: sa
+managecurrencyconversionfactor.datasource.password:
+
