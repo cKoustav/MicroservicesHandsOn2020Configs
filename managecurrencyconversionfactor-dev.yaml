@@ -1,5 +1,9 @@
-managecurrencyconversionfactor.h2.console.enabled: true
-managecurrencyconversionfactor.datasource.url: "jdbc:h2:mem:conversionDB;DB_CLOSE_DELAY=-1"
-managecurrencyconversionfactor.datasource.username: sa
-managecurrencyconversionfactor.datasource.password:
+#managecurrencyconversionfactor.h2.console.enabled: true
+#managecurrencyconversionfactor.datasource.url: "jdbc:h2:mem:conversionDB;DB_CLOSE_DELAY=-1"
+#managecurrencyconversionfactor.datasource.username: sa
+#managecurrencyconversionfactor.datasource.password:
 
+managecurrencyconversionfactor.pg.jpa.hibernate.ddl-auto: validate
+managecurrencyconversionfactor.pg.datasource.url: "jdbc:postgresql://pghost:5432/currencydb"
+managecurrencyconversionfactor.pg.datasource.username: postgres
+managecurrencyconversionfactor.pg.datasource.password: pg123
