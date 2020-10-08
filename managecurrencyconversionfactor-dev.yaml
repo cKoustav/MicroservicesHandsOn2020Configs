@@ -4,6 +4,9 @@
 #managecurrencyconversionfactor.datasource.password:
 
 managecurrencyconversionfactor.pg.jpa.hibernate.ddl-auto: create-drop
-managecurrencyconversionfactor.pg.datasource.url: "jdbc:postgresql://pghost:5432/currencydb"
+managecurrencyconversionfactor.pg.datasource.url: "jdbc:postgresql://postgres:5432/currencydb"
 managecurrencyconversionfactor.pg.datasource.username: postgres
 managecurrencyconversionfactor.pg.datasource.password: pg123
+
+managecurrencyms.zipkin.url: http://zipkin:9411/
+managecurrencyms.eureka.url: http://eureka:8761/eureka

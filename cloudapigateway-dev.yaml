@@ -10,3 +10,6 @@ spring:
         uri: lb://convertcurrency
         predicates:
         - Path=/currency/**
+        
+cloudapigateway.zipkin.url: http://zipkin:9411/
+cloudapigateway.eureka.url: http://eureka:8761/eureka

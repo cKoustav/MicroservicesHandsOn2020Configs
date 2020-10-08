@@ -1,2 +1,4 @@
 convertcurrency.managecurrency.url: "http://managecurrencymshost:62037/conversionfactor/get-conversion-factor/"
 
+convertcurrencyms.zipkin.url: http://zipkin:9411/
+convertcurrencyms.eureka.url: http://eureka:8761/eureka
