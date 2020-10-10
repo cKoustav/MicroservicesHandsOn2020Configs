@@ -3,7 +3,7 @@
 #managecurrencyconversionfactor.datasource.username: sa
 #managecurrencyconversionfactor.datasource.password:
 
-managecurrencyconversionfactor.pg.jpa.hibernate.ddl-auto: validate
+managecurrencyconversionfactor.pg.jpa.hibernate.ddl-auto: create-drop
 managecurrencyconversionfactor.pg.datasource.url: "jdbc:postgresql://postgres:5432/currencydb"
 managecurrencyconversionfactor.pg.datasource.username: postgres
 managecurrencyconversionfactor.pg.datasource.password: pg123
