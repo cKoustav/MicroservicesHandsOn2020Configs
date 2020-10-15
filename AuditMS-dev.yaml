@@ -1,0 +1,7 @@
+auditms.pg.jpa.hibernate.ddl-auto: create-drop
+auditms.pg.datasource.url: "jdbc:postgresql://postgres:5432/auditDB"
+auditms.pg.datasource.username: postgres
+auditms.pg.datasource.password: pg123
+
+auditms.zipkin.url: http://zipkin:9411/
+auditms.eureka.url: http://eureka:8761/eureka
