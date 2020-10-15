@@ -1,4 +1,4 @@
-auditms.pg.jpa.hibernate.ddl-auto: validate
+auditms.pg.jpa.hibernate.ddl-auto: create-drop
 auditms.pg.datasource.url: "jdbc:postgresql://postgres:5432/auditDB"
 auditms.pg.datasource.username: postgres
 auditms.pg.datasource.password: pg123
