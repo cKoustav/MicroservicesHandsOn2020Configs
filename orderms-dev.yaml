@@ -1,4 +1,4 @@
-orderms.pg.jpa.hibernate.ddl-auto: create-drop
+orderms.pg.jpa.hibernate.ddl-auto: validate
 orderms.pg.datasource.url: "jdbc:postgresql://postgres:5432/orderDB"
 orderms.pg.datasource.username: postgres
 orderms.pg.datasource.password: pg123
