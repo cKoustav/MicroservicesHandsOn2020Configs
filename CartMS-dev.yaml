@@ -1,4 +1,4 @@
-cartms.pg.jpa.hibernate.ddl-auto: create-drop
+cartms.pg.jpa.hibernate.ddl-auto: validate
 cartms.pg.datasource.url: "jdbc:postgresql://postgres:5432/cartDB"
 cartms.pg.datasource.username: postgres
 cartms.pg.datasource.password: pg123
