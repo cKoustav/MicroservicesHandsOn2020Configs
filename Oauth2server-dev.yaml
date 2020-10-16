@@ -1,0 +1,7 @@
+oauth2server.pg.jpa.hibernate.ddl-auto: create-drop
+oauth2server.pg.datasource.url: "jdbc:postgresql://postgres:5432/userDB"
+oauth2server.pg.datasource.username: postgres
+oauth2server.pg.datasource.password: pg123
+
+oauth2server.zipkin.url: http://zipkin:9411/
+oauth2server.eureka.url: http://eureka:8761/eureka
