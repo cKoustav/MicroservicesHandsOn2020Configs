@@ -1,4 +1,4 @@
-productms.pg.jpa.hibernate.ddl-auto: create-drop
+productms.pg.jpa.hibernate.ddl-auto: validate
 productms.pg.datasource.url: "jdbc:postgresql://postgres:5432/productDB"
 productms.pg.datasource.username: postgres
 productms.pg.datasource.password: pg123
