@@ -1,0 +1,7 @@
+productms.pg.jpa.hibernate.ddl-auto: create-drop
+productms.pg.datasource.url: "jdbc:postgresql://postgres:5432/productDB"
+productms.pg.datasource.username: postgres
+productms.pg.datasource.password: pg123
+
+productms.zipkin.url: http://zipkin:9411/
+productms.eureka.url: http://eureka:8761/eureka
