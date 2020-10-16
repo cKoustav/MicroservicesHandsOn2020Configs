@@ -1,4 +1,4 @@
-oauth2server.pg.jpa.hibernate.ddl-auto: create-drop
+oauth2server.pg.jpa.hibernate.ddl-auto: validate
 oauth2server.pg.datasource.url: "jdbc:postgresql://postgres:5432/userDB"
 oauth2server.pg.datasource.username: postgres
 oauth2server.pg.datasource.password: pg123
